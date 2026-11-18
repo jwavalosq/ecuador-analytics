@@ -1,0 +1,9 @@
+entrenador,equipo,temporada,sistema_base,sistema_en_posesion,puntos_liga,victorias,empates,derrotas,goles_a_favor,goles_en_contra,posesion_porcentaje,xg,xga,goleador_y_nota,logro,fuente_y_nota
+Jurgen Klopp,Liverpool,2023-24,4-3-3,4-3-3,82,24,10,4,86,41,61.8,90.63,46.69,"Mohamed Salah, 18 goles en liga",Campeon de la Copa de la Liga,FBref y datos de liga verificados
+Luis Enrique,Paris Saint-Germain,2024-25,4-3-3,4-3-3,84,26,6,2,92,35,68.4,90.62,31.68,"Ousmane Dembele, 21 goles en liga","Campeon de Ligue 1 y de la Champions League, final 5-0 al Inter el 31 may 2025",UEFA y datos de liga verificados
+Xabi Alonso,Bayer Leverkusen,2023-24,3-4-2-1,3-4-2-1,90,28,6,0,89,24,62.1,75.23,30.46,"Victor Boniface, 14 goles en liga","Campeon de Bundesliga, invicto en liga",FBref y datos de liga verificados
+Xabi Alonso,Bayer Leverkusen,2024-25,3-4-2-1,3-4-2-1,69,19,12,3,72,43,59.4,,,"Patrik Schick, 21 goles en liga",Segundo en Bundesliga,FBref y datos de liga verificados
+Xavi Hernandez,FC Barcelona,2023-24,4-3-3,4-3-3,85,26,7,5,79,44,64.3,78.99,42.27,"Robert Lewandowski, 19 goles en liga","Segundo en LaLiga, 10 puntos detras del Real Madrid",FBref y datos de liga verificados
+Enzo Maresca,Chelsea,2024-25,4-2-3-1,3-2-5 en posesion,69,20,9,9,64,43,57.1,68.66,,"Cole Palmer, protagonista en la final del Mundial de Clubes","Cuarto en Premier League, campeon de la Conference League y del Mundial de Clubes","FBref y datos de competicion verificados, xG segun la fuente entre 68.66 y 69.2"
+Julian Nagelsmann,Alemania,Euro 2024,4-2-3-1,4-2-3-1,,3,1,1,11,4,,,"Jamal Musiala, gol en 3 de los 4 primeros partidos","Cuartos de final, derrota 2-1 ante Espana tras la prorroga el 5 jul 2024",Datos de torneo verificados
+Ronald Koeman,Paises Bajos,Euro 2024,4-2-3-1,3-2-4-1 en posesion,,3,1,2,10,7,,,"Cody Gakpo, 3 goles","Semifinal, derrota 2-1 ante Inglaterra el 10 jul 2024",Datos de torneo verificados
